@@ -2,9 +2,19 @@
 
 **`Desenvolvedo FullStack`**
 
+Sou Coordenador de Técnico na [L5 Networks](https://www.l5net.com.br), com mais de 15 anos de experiência em desenvolvimento de sistemas, infraestrutura e telecomunicações. Tenho paixão por tecnologia, aprendizado constante e por entregar soluções de alta disponibilidade que realmente fazem a diferença.
+
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 💻 Tecnologias & Ferramentas
+Tenho conhecimento sólido nas seguintes tecnologias:
+
+- **Back-end:** PHP, Node.js, JavaScript
+- **Telecom:** Asterisk (PJSIP, Chan_SIP, ARI), WebRTC, VoIP
+- **Banco de dados:** MySQL, MariaDB
+- **Infraestrutura:** Linux (CentOS, Ubuntu), Redes, Docker, Git, CI/CD (GitHub Actions), NGINX
+- **Cloud & Automação:** AWS, GCP, Terraform, Ansible
+- **Outros:** HTML, CSS, sngrep, monitoração de RTP, debug de chamadas SIP
 
 <img 
     align="left" 
@@ -30,30 +40,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Bootstrap"
@@ -62,22 +49,8 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
+
+
 <img 
     align="left" 
     alt="PHP" 
@@ -96,6 +69,14 @@
 />
 <img 
     align="left" 
+    alt="Codeigniter" 
+    title="Codeigniter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain-wordmark.svg" 
+/>
+<img 
+    align="left" 
     alt="JQuery" 
     title="JQuery"
     width="30px" 
@@ -109,14 +90,6 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <br/>
@@ -141,3 +114,11 @@
   />
 
 </p>
+
+## 📫 Entre em contato
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexandreferraz)
+- ✉️ Email: alexandrehpf@hotmail.com
+ 
+---
+
+> _“Tecnologia é ponte, não fim. Meu foco é construir soluções que conectem pessoas e entreguem valor real.”_
