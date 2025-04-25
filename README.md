@@ -11,7 +11,7 @@ Tenho conhecimento sólido nas seguintes tecnologias:
 
 - **Back-end:** PHP, Node.js, JavaScript
 - **Telecom:** Asterisk (PJSIP, Chan_SIP, ARI), WebRTC, VoIP
-- **Banco de dados:** MySQL, MariaDB
+- **Banco de dados:** MySQL, MariaDB, MongoDB
 - **Infraestrutura:** Linux (CentOS, Ubuntu), Redes, Docker, Git, CI/CD (GitHub Actions), NGINX
 - **Cloud & Automação:** AWS, GCP, Terraform, Ansible
 - **Outros:** HTML, CSS, sngrep, monitoração de RTP, debug de chamadas SIP
